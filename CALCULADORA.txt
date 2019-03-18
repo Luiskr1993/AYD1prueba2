@@ -25,3 +25,5 @@ int resta(int a, int b){
 
 //Las funciones han superado las pruebas, la versión está lista para producción.
 
+// Todos los pasos han sido revisados correctamente, por lo cual ya está lista la aplicación para trasldarse a producción.
+
