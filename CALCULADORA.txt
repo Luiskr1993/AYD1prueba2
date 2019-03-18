@@ -16,3 +16,5 @@ int resta(int a, int b){
 //Funcion correctamente revisada por Auxiliar 3
 
 // aquí terminan las funciones sencillas
+
+//Las funciones han superado las pruebas, la versión está lista para producción.
