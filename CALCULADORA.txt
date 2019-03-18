@@ -6,8 +6,9 @@ int suma(int a, int b){
 	return a + b;
 }
 
-FUNCION RESTAR
+FUNCION RESTAR // funcion revisada exitosamente
 int resta(int a, int b){
 	
 	return a - b;
 }
+
