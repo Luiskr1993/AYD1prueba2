@@ -1,4 +1,7 @@
 // sección de codigo para las funciones de una calcudora
 
 FUNCION SUMAR
-int suma(){}
+int suma(int a, int b){
+	
+	return a + b;
+}
