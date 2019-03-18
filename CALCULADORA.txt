@@ -13,5 +13,6 @@ int resta(int a, int b){
 	
 	return a - b;
 }
+//Funcion correctamente revisada por Auxiliar 3
 
 // aquí terminan las funciones sencillas
