@@ -5,3 +5,6 @@ int suma(int a, int b){
 	
 	return a + b;
 }
+
+FUNCION RESTAR
+int resta(){}
